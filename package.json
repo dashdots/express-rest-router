@@ -1,0 +1,32 @@
+{
+  "name": "express-rest-router",
+  "version": "0.0.1",
+  "description": "REST style path to express router",
+  "contributors": [],
+  "license": "MIT",
+  "main": "./index",
+  "dependencies": {
+    "proxyquire": "^1.7.4",
+    "rest-to-regexp": "^0.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dashdots/express-rest-router"
+  },
+  "author": {
+    "email": "dashdot.coder@gmail.com",
+    "name": "dashdots"
+  },
+  "keywords": [
+    "express",
+    "regexp",
+    "rest",
+    "router"
+  ],
+  "bugs": {
+    "url": "https://github.com/dashdots/express-rest-router/issues"
+  },
+  "homepage": "https://github.com/dashdots/express-rest-router",
+  "scripts": {}
+}
